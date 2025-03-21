@@ -76,7 +76,6 @@ hostile(Z):-
 enemy(Z,america).
 sells(west,Y,nano):-
 missile(Y),
-Thus the prolog programs were executed successfully and the answer of query was found.
 owns(nano,Y).
 missile(m).
 owns(nano,m).
